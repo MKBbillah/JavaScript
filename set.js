@@ -1,5 +1,5 @@
 // Set
-let myset = new Set([1,2,3,4,]);
+let myset = new Set([1,2,3,4]);
 
 // Add
 myset.add("Hello");
